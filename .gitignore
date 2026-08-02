@@ -1,0 +1,50 @@
+# ==============================
+# AFRICANO BIG DATA LAB
+# ==============================
+
+# Java / Maven
+**/target/
+**/.mvn/wrapper/maven-wrapper.jar
+
+# IDEs
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# VS Code
+.vscode/
+
+# Eclipse / STS
+.classpath
+.factorypath
+.project
+.settings/
+.springBeans
+.sts4-cache
+
+# NetBeans
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# Build
+build/
+
+# Logs
+*.log
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Local application configuration
+application-local.properties
+application-local.yml
+
+# OS
+.DS_Store
+Thumbs.db
